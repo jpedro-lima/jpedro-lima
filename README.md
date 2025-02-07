@@ -10,14 +10,14 @@ Como pode ver, sou apaixonado por tecnologia e tudo que a envolve, se sente o me
 ### Competências
 <div style="display: flex" align="left">
   
-  <h4>How I started:</h4>
+  <h4>Como comecei:</h4>
   <img alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img alt="Git" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
   <img alt="Bash" width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bash/bash-original.svg">
   <img alt="C" width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/c/c-original.svg">
   <img alt="CPP" width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cplusplus/cplusplus-original.svg">
   
-  <h4>Stacks I worked with:</h4>
+  <h4>Tecnologias que já usei:</h4>
   <img alt="JavaScript" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img alt="Python" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
   <img alt="Django" width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/django/django-plain.svg">
@@ -25,7 +25,7 @@ Como pode ver, sou apaixonado por tecnologia e tudo que a envolve, se sente o me
   <img alt="Kubernetes" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
   <img alt="PostgreSQL" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
   
-  <h4>Currently working with:</h4>
+  <h4>Tecnologias que uso atualmente:</h4>
   <img alt="Java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img alt="Spring" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg">
   <img alt="TypeScript" width="40" height="40" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/typescript/typescript-original.svg">
