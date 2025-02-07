@@ -38,6 +38,7 @@ Como pode ver, sou apaixonado por tecnologia e tudo que a envolve, se sente o me
 ##
 
 <div align="center">
-<h4>Contact me</h4>  
-<a href="https://www.linkedin.com/in/jpedro-correia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="mailto:jpedro-lima@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Outlook-gray?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
+  <h4>Contact me</h4>  
+  <a href="https://www.linkedin.com/in/jpedro-correia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:jpedro-lima@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Mail-gray?style=for-the-badge&logo=mailboxdotorg&logoColor=white"></a>
+</div>
