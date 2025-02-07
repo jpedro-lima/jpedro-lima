@@ -1,5 +1,9 @@
 ## Olá, eu sou João Pedro 😁
-Sou um desenvolvedor **Full Stack** especializado em Java com Spring Boot e React (quando não uso Vanilla JS), tenho domínio em docker e tenho experimentado o uso de Kubernetes para meus projetos de micro serviços. Adoro desenvolver e aprender como funcionam as coisas por baixo dos panos, então nos meus repositórios você encontrará diversos projetos de **pesquisa** avaliando o funcionamento de threads, como o linux opera, projetos com estruturas de dados mais complexa, projetos com diversos padrões de design e arquitetura, experimentos com embarcados e muito mais!
+Sou um desenvolvedor **Full Stack** especializado em Java com Spring Boot e React (quando não uso Vanilla JS), tenho domínio em docker e tenho experimentado o uso de Kubernetes para meus projetos de micro serviços. 
+
+Nos meus repositórios você encontrará diversos projetos de **pesquisa**, envolvedo: funcionamento de threads, como o linux opera, projetos gráficos, estruturas de dados mais complexos, avaliações de padrões de design e arquitetura de sistemas, experimentos com embarcados e muito mais!
+
+Como pode ver, sou apaixonado por tecnologia e tudo que a envolve!
 
 Aceito sujestões de melhorias em todos os projetos, então faça seu pull request, ou manda um e-mail!
 
