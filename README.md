@@ -3,9 +3,9 @@ Sou um desenvolvedor **Full Stack** especializado em Java com Spring Boot e Reac
 
 Nos meus repositórios você encontrará diversos projetos de **pesquisa**, envolvedo: funcionamento de threads, como o linux opera, projetos gráficos, estruturas de dados mais complexos, avaliações de padrões de design e arquitetura de sistemas, experimentos com embarcados e muito mais!
 
-Como pode ver, sou apaixonado por tecnologia e tudo que a envolve!
+Como pode ver, sou apaixonado por tecnologia e tudo que a envolve, se sente o mesmo entra em contato, bora codar juntos!
 
-Aceito sujestões de melhorias em todos os projetos, então faça seu pull request, ou manda um e-mail!
+##
 
 ### Competências
 <div style="display: flex" align="left">
